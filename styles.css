@@ -1,7 +1,30 @@
+
 h1 {
-    color:blue;
+    flex: 1;
+    color:#313131;
+}
+
+h2 {
+    flex: 1;
+    color: #313131;
+}
+
+h3 {
+    flex: q;
+    color: #313131;
 }
 
 p {
-    color:blueviolet;
+    color:#313131;
+}
+body { 
+    background-color: #F7F1F1;
+}
+.container {
+    display: flex;
+}
+
+.btn-large {
+    color:#313131
+    font-size: 50px;
 }
